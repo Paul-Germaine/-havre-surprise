@@ -1,6 +1,6 @@
 const CONFIG = {
   recipient: "Lise",
-  launchDate: new Date("2026-08-13T12:00:00+02:00"),
+  launchDate: new Date("2026-08-15T12:00:00+02:00"),
   tripDate: new Date("2026-08-22T15:00:00+02:00"),
   airbnbUrl: "https://www.airbnb.fr/rooms/1088232055415737379?adults=2&check_in=2026-08-22&check_out=2026-08-23&guests=2&location=Le%20Havre%2C%20France&search_mode=regular_search&amenities%5B%5D=25",
   restaurantUrl: "https://bistrot-canaille.com/",
@@ -36,7 +36,7 @@ const CONFIG = {
     {
       id:"sunset", icon:"☼", label:"Samedi · 21 h", title:"Rendez-vous avec l'horizon",
       teaser:"Pour celui-là, impossible d'être en retard : il n'attendra pas.",
-      question:"Je descends sans tomber, je rougis sans être gêné et, au bord de la mer, je transforme quelques minutes en carte postale. Qui suis-je ?",
+      question:"Tu m'as dit que tu aimais les énigmes.. Je descends sans tomber, je rougis sans être gêné et, au bord de la mer, je transforme quelques minutes en carte postale. Qui suis-je ?",
       answers:["coucher de soleil","couché de soleil","sunset","soleil"],
       revealTitle:"21 h — coucher de soleil sur la plage",
       revealText:"Samedi 22 août, à 21 h, je veux qu'on soit sur la plage pour regarder le soleil disparaître. Profite bien de la vue… mais ne traîne pas trop : la soirée ne fait que commencer.",
